@@ -1,0 +1,13 @@
+{
+  "name": "gridster.js",
+  "repository": "sperand-io/gridster.js",
+  "description": "Gridster.js as a component",
+  "version": "0.0.1",
+  "keywords": ["grids", "bin packing", "draggable"],
+  "dependencies": {
+    "components/jquery": "*",
+  },
+  "scripts": ["/src/jquery.gridster.js"],
+  "styles": ["/src/jquery.gridster.css"],
+  "license": "MIT"
+}
